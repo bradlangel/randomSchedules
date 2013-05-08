@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Ply
+Main-Class: scheduler
+Specification-Title: randomSchedules
+Specification-Version: 1.0
+Implementation-Title: randomSchedules
+Implementation-Version: 1.0
+
